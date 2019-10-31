@@ -1,0 +1,4 @@
+name: homework-environment
+dependencies:
+        -python
+        -scipy
