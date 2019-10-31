@@ -1,4 +1,6 @@
 name: homework-environment
+channels:
+        -conda-forge
 dependencies:
         -python
         -scipy
